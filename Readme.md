@@ -34,12 +34,12 @@ cd youtube-downloader
 
 #### Linux / macOS
 ```bash
-gcc -o yt_downloader youtube_downloader.c
+gcc -o yt_downloader downloader.c
 ```
 
 #### Windows (Using MinGW)
 ```bash
-gcc -o yt_downloader.exe youtube_downloader.c
+gcc -o yt_downloader.exe downloader.c
 ```
 
 ### 3. Install Dependencies
