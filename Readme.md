@@ -26,8 +26,8 @@ Ensure that you have the following installed on your system:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/easy-local-yt-downloader.git
-cd easy-local-yt-downloader
+git clone https://github.com/siyam-yas/youtube-downloader.git
+cd youtube-downloader
 ```
 
 ### 2. Build the Program
