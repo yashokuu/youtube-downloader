@@ -1,0 +1,37 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=QdnEK23ZBcc
+[youtube] QdnEK23ZBcc: Downloading webpage
+[youtube] QdnEK23ZBcc: Downloading tv client config
+[youtube] QdnEK23ZBcc: Downloading player b191cf34
+[youtube] QdnEK23ZBcc: Downloading tv player API JSON
+[youtube] QdnEK23ZBcc: Downloading ios player API JSON
+[youtube] QdnEK23ZBcc: Downloading m3u8 information
+[info] Available formats for QdnEK23ZBcc:
+ID  EXT   RESOLUTION FPS CH |   FILESIZE  TBR PROTO | VCODEC         VBR ACODEC      ABR ASR MORE INFO
+--------------------------------------------------------------------------------------------------------------
+sb3 mhtml 48x27        0    |                 mhtml | images                                 storyboard
+sb2 mhtml 81x45        1    |                 mhtml | images                                 storyboard
+sb1 mhtml 162x90       1    |                 mhtml | images                                 storyboard
+sb0 mhtml 324x180      1    |                 mhtml | images                                 storyboard
+233 mp4   audio only        |                 m3u8  | audio only         unknown             Default
+234 mp4   audio only        |                 m3u8  | audio only         unknown             Default
+249 webm  audio only      2 |    1.86MiB  54k https | audio only         opus        54k 48k low, webm_dash
+250 webm  audio only      2 |    2.41MiB  70k https | audio only         opus        70k 48k low, webm_dash
+140 m4a   audio only      2 |    4.48MiB 130k https | audio only         mp4a.40.2  130k 44k medium, m4a_dash
+251 webm  audio only      2 |    4.59MiB 133k https | audio only         opus       133k 48k medium, webm_dash
+602 mp4   256x142     15    | ~  2.61MiB  76k m3u8  | vp09.00.10.08  76k video only
+269 mp4   256x142     30    | ~  2.32MiB  67k m3u8  | avc1.4D400C    67k video only
+160 mp4   256x142     30    |  292.20KiB   8k https | avc1.4d400c     8k video only          144p, mp4_dash
+603 mp4   256x142     30    | ~  2.78MiB  81k m3u8  | vp09.00.11.08  81k video only
+278 webm  256x142     30    |  513.91KiB  15k https | vp9            15k video only          144p, webm_dash
+394 mp4   256x142     30    |  551.41KiB  16k https | av01.0.00M.08  16k video only          144p, mp4_dash
+229 mp4   426x236     30    | ~  2.47MiB  72k m3u8  | avc1.4D4015    72k video only
+133 mp4   426x236     30    |  373.55KiB  11k https | avc1.4d4015    11k video only          240p, mp4_dash
+604 mp4   426x236     30    | ~  3.11MiB  90k m3u8  | vp09.00.20.08  90k video only
+242 webm  426x236     30    |  677.06KiB  19k https | vp9            19k video only          240p, webm_dash
+395 mp4   426x236     30    |  837.25KiB  24k https | av01.0.00M.08  24k video only          240p, mp4_dash
+230 mp4   640x354     30    | ~  5.64MiB 163k m3u8  | avc1.4D401E   163k video only
+134 mp4   640x354     30    |  510.90KiB  14k https | avc1.4d401e    14k video only          360p, mp4_dash
+18  mp4   640x354     30  2 | ≈  4.96MiB 143k https | avc1.42001E        mp4a.40.2       44k 360p
+605 mp4   640x354     30    | ~  6.35MiB 184k m3u8  | vp09.00.21.08 184k video only
+243 webm  640x354     30    |  868.16KiB  25k https | vp9            25k video only          360p, webm_dash
+396 mp4   640x354     30    |  712.73KiB  20k https | av01.0.01M.08  20k video only          360p, mp4_dash
